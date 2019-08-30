@@ -1,3 +1,14 @@
+/*
+ * Fake WiFi hotspot to *strongly* discourage wifi usage in private or public areas where desired.
+ * Permission is granted to freely use and distribute so long as this notice is left intact.
+ * 
+ * Please consider where this is used.  Locations with minor children - you should modify the landing page to be 
+ * appropriate.  Otherwise for adult locations like bars and clubs, feel free to use the default landing page :)
+ * 
+ * Written by: John Rogers   john at wizworks dot net     http://wizworks.net on June 23rd 2018
+ * 
+ */
+
 #include <FS.h>
 #include <ESP8266WiFi.h>
 #include <DNSServer.h>
