@@ -1,5 +1,5 @@
 # FakeWiFi
-A fake WiFi hotspot designed to encourage less more facetime instead of screen time
+A fake WiFi hotspot designed to encourage less screentime more facetime
 
 ## Features
 * SPIFFS Support
